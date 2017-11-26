@@ -25,7 +25,9 @@ Binaries
 --------
 
 [This repository](https://github.com/golightlyb/hero-extant-2010) contains
-source code and Windows binaries. You can get a copy of this from
+source code and Windows binaries.
+
+You can get a copy of the source and Windows binaries from
 [Hero Extant in the TopHat Stuff archive](http://www.tophatstuff.co.uk/index.html@p=99.html).
 
 
