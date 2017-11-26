@@ -18,6 +18,11 @@ It has also been [ported to Java](https://github.com/avh4/hero-extant).
 
 The code is now (2017) public domain.
 
+Video
+-----
+
+[![Fractal world generator video](screenshots/video.jpg)](https://www.youtube.com/watch?v=FvaiTE-75ck)
+
 Example Output
 --------------
 
@@ -44,5 +49,6 @@ Example Output
 ### Experimental feature: using wind & rainfall data to render clouds.
 
 ![Screenshot of the world generator](screenshots/elevationRender.png)
+
 
 
