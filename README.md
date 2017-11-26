@@ -11,10 +11,12 @@ binary and also rendered as PNG images. You can find saved worlds in the
 Source
 ------
 
-The code is written in a Pascal-like language called Cobra (not the .NET language
-with the same name). The code is now (2017) public domain.
+The code was written in non-free Pascal-like language called Cobra (not the .NET language
+with the same name).
 
 **Compilers for this language no longer exist.**
+
+The code is now (2017) public domain.
 
 Hero Extant (2010) has also been [ported to Java](https://github.com/avh4/hero-extant).
 
