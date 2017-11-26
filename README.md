@@ -43,11 +43,11 @@ Example Output
 
 ### Terrain Types
 
-![Screenshot of the world generator](screenshots/terrainRender.jpg)
+![Screenshot of the world generator](screenshots/terrainRender.png)
 
 ### Terrain Contiguity
 
-![Screenshot of the world generator](screenshots/fullRender.jpg)
+![Screenshot of the world generator](screenshots/contiguityRender.png)
 
 ### Wind and Rain Simulation
 
