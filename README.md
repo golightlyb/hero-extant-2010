@@ -73,7 +73,7 @@ I already have improved heightmap generation, atmosphere simulation, and an
 accurate seasonal sunlight model. But there's no "nice" program to run.
 
 If you'd like to see more, please
-[https://www.patreon.com/golightlyb](support Hero Extant development on Patreon)
+[support Hero Extant development on Patreon](https://www.patreon.com/golightlyb)
 so that I can dedicate the time this deserves!
 
 
