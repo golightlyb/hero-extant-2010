@@ -64,10 +64,25 @@ Example Output
 ![Screenshot of the world generator](screenshots/elevationRender.png)
 
 
+Future Work
+-----------
+
+I'd **love** to be able to work on a full version of this.
+
+I already have improved heightmap generation, atmosphere simulation, and an
+accurate seasonal sunlight model. But there's no "nice" program to run.
+
+If you'd like to see more, please
+[https://www.patreon.com/golightlyb](support Hero Extant development on Patreon)
+so that I can dedicate the time this deserves!
+
+
+
 Credits/COPYING
 ---------------
 
 With thanks to the community at [SoCoder](http://socoder.net/).
+
 
 ### Hero Extant 2010 Source Code
 
